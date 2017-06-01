@@ -38,7 +38,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 [![SolidWhiteRight](https://img.youtube.com/vi/T0DzKimgPYw/0.jpg)](https://www.youtube.com/watch?v=T0DzKimgPYw)
 
-[![SolidYellowLeft](https://img.youtube.com/vi/xU154sBDc/0.jpg)](https://www.youtube.com/watch?v=xU154sBDc)
+[![SolidYellowLeft](https://img.youtube.com/vi/xU154sBDc-Q/0.jpg)](https://www.youtube.com/watch?v=xU154sBDc-Q)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
