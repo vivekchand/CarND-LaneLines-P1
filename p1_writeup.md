@@ -36,10 +36,10 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 4. Using the slope & intercept, extrapolate the line to the bottom and apex of the lane
 5. Plot the extrapolated line
 
-Solid White Right Lane Lines
+####Solid White Right Lane Lines
 [![SolidWhiteRight](https://img.youtube.com/vi/T0DzKimgPYw/0.jpg)](https://www.youtube.com/watch?v=T0DzKimgPYw)
 
-Solid Yellow Left Lane Lines
+####Solid Yellow Left Lane Lines
 [![SolidYellowLeft](https://img.youtube.com/vi/xU154sBDc-Q/0.jpg)](https://www.youtube.com/watch?v=xU154sBDc-Q)
 
 
