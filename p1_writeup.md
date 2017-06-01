@@ -21,8 +21,8 @@ The goals / steps of this project are the following:
 
 My pipeline consists of the following steps:
 
-1. Convert RGB to Grayscale image
-2. Apply a slight Gaussian blur
+1. Convert RGB image to Grayscale image
+2. Apply a slight Gaussian blur to smooth the image by setting a kernel size of 3
 3. Perform Canny Edge detection
 4. Define region of interest & mask away undesired portions of the image
 5. Retrieve Hough lines
@@ -35,6 +35,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 3. Calculate the slope & intercept of each average line 
 4. Using the slope & intercept, extrapolate the line to the bottom and apex of the lane
 5. Plot the extrapolated line
+
+[![SolidWhiteRight](https://img.youtube.com/vi/T0DzKimgPYw/0.jpg)](https://www.youtube.com/watch?v=T0DzKimgPYw)
+
+[![SolidYellowLeft](https://img.youtube.com/vi/xU154sBDc/0.jpg)](https://www.youtube.com/watch?v=xU154sBDc)
+
 
 ### 2. Identify potential shortcomings with your current pipeline
 
