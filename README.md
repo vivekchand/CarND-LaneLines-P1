@@ -4,8 +4,8 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-####Solid White Right Lane Lines
+#### Solid White Right Lane Lines
 [![SolidWhiteRight](https://img.youtube.com/vi/T0DzKimgPYw/0.jpg)](https://www.youtube.com/watch?v=T0DzKimgPYw)
 
-####Solid Yellow Left Lane Lines
+#### Solid Yellow Left Lane Lines
 [![SolidYellowLeft](https://img.youtube.com/vi/xU154sBDc-Q/0.jpg)](https://www.youtube.com/watch?v=xU154sBDc-Q)
