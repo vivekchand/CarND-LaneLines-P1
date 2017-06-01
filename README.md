@@ -1,9 +1,9 @@
-#**Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ---
 The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+* Make a pipeline that finds lane lines on the road [P1.ipynb](P1.ipynb)
+* Reflect on your work in a written report [p1_writeup.md](p1_writeup.md)
 
 #### Solid White Right Lane Lines
 [![SolidWhiteRight](https://img.youtube.com/vi/T0DzKimgPYw/0.jpg)](https://www.youtube.com/watch?v=T0DzKimgPYw)
